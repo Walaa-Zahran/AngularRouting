@@ -1,4 +1,4 @@
-##Install dependencies and make it work
+## Install dependencies and make it work
 
 `npm install`
 
@@ -9,5 +9,5 @@
 To navigate to the home and login pages of a web application with the help of Routing
 
 
-##Screenshot
+## Screenshot
 
